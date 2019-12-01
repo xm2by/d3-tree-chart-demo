@@ -1,0 +1,44 @@
+{
+  "code": "0",
+  "data": {
+    "name": "中国",
+    "id": "china",
+    "children": [{
+        "name": "浙江省",
+        "id": "zjs",
+        "children": [{
+            "name": "杭州市",
+            "id": "hzs",
+            "children": [{
+                "name": "滨江区",
+                "id": "bjq"
+              },
+              {
+                "name": "萧山区",
+                "id": "sxq"
+              }
+            ]
+          },
+          {
+            "name": "宁波市",
+            "id": "nbs"
+          }
+        ]
+      },
+      {
+        "name": "北京市",
+        "id": "bjs",
+        "children": [{
+            "name": "朝阳区",
+            "id": "cyq"
+          },
+          {
+            "name": "海淀区",
+            "id": "hdq"
+          }
+        ]
+      }
+    ]
+  },
+  "msg": "操作成功"
+}
